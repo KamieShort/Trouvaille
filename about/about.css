@@ -1,0 +1,9 @@
+main {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Source Code Pro', monospace;
+}
+
+img {
+    height: 500px;
+}
